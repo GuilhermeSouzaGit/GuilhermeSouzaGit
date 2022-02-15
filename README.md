@@ -1,4 +1,3 @@
-- 🔭 I’m currently working on a website
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 <div align="center">
   <a href="https://github.com/GuilhermeSouzaGit">
